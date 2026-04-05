@@ -1,6 +1,15 @@
 <Solution>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
+    <File Path="SauceDemoTests_Tsyhankov/README.md" />
   </Folder>
-  <Project Path="SauceDemoTests_Tsyhankov/SauceDemoTests_Tsyhankov.csproj" />
+  <Folder Name="/src/">
+    <Project Path="SauceDemo.Framework.Core/SauceDemo.Framework.Core.csproj" Id="17e2ece2-9508-4d94-909f-c6d99bc524ed" />
+    <Project Path="SauceDemo.Framework.Pages/SauceDemo.Framework.Pages.csproj" Id="1d51c2bc-dae0-4997-a432-fdb46346d667" />
+    <Project Path="SauceDemo.Framework.TestData/SauceDemo.Framework.TestData.csproj" Id="92f635ef-c3cf-4071-9065-0926a8092aad" />
+    <Project Path="SauceDemo.Framework.Web/SauceDemo.Framework.Web.csproj" Id="aba208f6-ada2-4130-aed8-603451535b8d" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="SauceDemo.Tests/SauceDemo.Tests.csproj" Id="aa6a0248-69fa-4a8b-89a6-f2fd8f391b02" />
+  </Folder>
 </Solution>
