@@ -1,7 +1,5 @@
 ﻿using OpenQA.Selenium;
 using SauceDemo.Framework.Pages.Base;
-using SauceDemo.Framework.Web.Utilities;
-using SauceDemo.Framework.Web.Waits;
 using SauceDemo.Framework.Web.Logging;
 
 namespace SauceDemo.Framework.Pages.Components;

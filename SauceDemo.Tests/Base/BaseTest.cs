@@ -1,5 +1,4 @@
-﻿using NUnit.Framework;
-using NUnit.Framework.Interfaces;
+﻿using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
 using SauceDemo.Framework.Web.Drivers;
 using SauceDemo.Framework.Web.Logging;
